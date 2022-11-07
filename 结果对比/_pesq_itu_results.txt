@@ -1,0 +1,7 @@
+REFERENCE	 DEGRADED	 PESQMOS	 PESQMOS	 SUBJMOS	 COND	 SAMPLE_FREQ	 CRUDE_DELAY
+clean0.wav	 noisy0.wav	 SQValue=2.283	 2.283	 0.000	 0	 16000	0.0000
+ clean0.wav	 webrtc.wav	 SQValue=2.613	 2.613	 0.000	 0	 16000	0.0080
+ clean0.wav	 matlabOMLSA.wav	 SQValue=2.859	 2.859	 0.000	 0	 16000	0.0000
+ clean0.wav	 cOMLSA.wav	 SQValue=2.359	 2.359	 0.000	 0	 16000	0.0040
+ clean0.wav	 small_ns.wav	 SQValue=2.238	 2.238	 0.000	 0	 16000	0.0000
+ 
